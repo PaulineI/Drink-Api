@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M/lMQmJT7Zx5hGqxVmtkfCH2iDNIkTgCq2dWRSPmW00=",
+  "Source": "drink-api",
+  "BasePath": "_content/drink-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
